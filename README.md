@@ -340,8 +340,7 @@ https://github.com/user-attachments/assets/bb7f3174-b703-4c98-a23c-e6bb4abba390
 <details>
   <summary><i>13. Adjust component sizes (advanced)</i></summary>
  
-> Caution: Changing these values may break the layout on different screen sizes, so please only adjust them if you are comfortable with CSS.
-> 
+> - Caution: Changing these values may break the layout on different screen sizes, so please only adjust them if you are comfortable with CSS.
 > - These variables control the standard corner radius, border, and spacing values used throughout the theme.
 > 	```css
 > 	:root{
